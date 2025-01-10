@@ -1,4 +1,5 @@
 <?
 echo "versiones";
-echo "modificado 3333";
+echo "modificado 3333 0";
+echo "modificado 1542";
 ?>
